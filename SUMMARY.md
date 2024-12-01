@@ -2,16 +2,14 @@
 
 * [Welcome](README.md)
 
-## Getting Started
+## 专业介绍
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [计算机专业](zhuan-ye-jie-shao/quickstart.md)
 
-## Basics
+## 心理
 
-* [Editor](basics/editor.md)
-* [Markdown](basics/markdown.md)
-* [Images & media](basics/images-and-media.md)
-* [Interactive blocks](basics/interactive-blocks.md)
-* [OpenAPI](basics/openapi.md)
-* [Integrations](basics/integrations.md)
+* [Page 1](xin-li/page-1.md)
+
+## 为大学做准备
+
+* [Page 2](wei-da-xue-zuo-zhun-bei/page-2.md)
